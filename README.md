@@ -1,3 +1,3 @@
 # odin-recipes
 
-# Onigiri, Lasagna recipes
+Onigiri, Lasagna recipes
