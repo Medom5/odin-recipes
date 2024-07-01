@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color : rgb(234, 138, 209);
+}
+
+li { 
+    color: red;
+}
+
+a {
+    font-size: 20px;
+    color: royalblue;
+}
